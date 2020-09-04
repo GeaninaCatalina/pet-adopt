@@ -15,19 +15,19 @@ const routes = [
   },
 
   {
-    path: '/',
+    path: '/cats',
     name: 'Cats',
     component: Cats
   },
 
   {
-    path: '/',
+    path: '/dogs',
     name: 'Dogs',
     component: Dogs
   },
 
   {
-    path: '/',
+    path: '/pet',
     name: 'Pet',
     component: Pet
   },
