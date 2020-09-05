@@ -1,6 +1,6 @@
 <template>
   <div>
-    Home
+    <h1>Pets for addoption</h1>
   </div>
 </template>
 
@@ -8,7 +8,6 @@
 // @ is an alias to /src
 
 export default {
-  name: 'Home',
-  
-}
+  name: "Home",
+};
 </script>
