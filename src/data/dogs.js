@@ -2,6 +2,7 @@ export default [
   {
     name: 'Doggy',
     breed: 'Tuxedo',
+    species: 'dog',
     gender: 'Female',
     age: 2,
     weight: 12,
@@ -11,6 +12,7 @@ export default [
   {
     name: 'Mario',
     breed: 'Carts',
+    species: 'dog',
     gender: 'Male',
     age: 12,
     weight: 3,
@@ -21,6 +23,7 @@ export default [
   {
     name: 'Mary',
     breed: 'Carts',
+    species: 'dog',
     gender: 'Male',
     age: 12,
     weight: 3,
@@ -31,6 +34,7 @@ export default [
   {
     name: 'Sussan',
     breed: 'Carts',
+    species: 'dog',
     gender: 'Male',
     age: 12,
     weight: 3,

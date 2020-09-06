@@ -2,6 +2,7 @@ export default [
   {
     name: 'Kitty',
     breed: 'Tuxedo',
+    species: 'cat',
     gender: 'Female',
     age: 2,
     weight: 12,
@@ -11,6 +12,7 @@ export default [
   {
     name: 'Mario',
     breed: 'Carts',
+    species: 'cat',
     gender: 'Male',
     age: 12,
     weight: 3,
@@ -21,6 +23,7 @@ export default [
   {
     name: 'Mary',
     breed: 'Carts',
+    species: 'cat',
     gender: 'Male',
     age: 12,
     weight: 3,
@@ -31,6 +34,7 @@ export default [
   {
     name: 'Sussan',
     breed: 'Carts',
+    species: 'cat',
     gender: 'Male',
     age: 12,
     weight: 3,

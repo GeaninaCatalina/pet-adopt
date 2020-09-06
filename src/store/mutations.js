@@ -1,4 +1,3 @@
-import { species } from "core-js/fn/symbol"
 
  export default {
     appendPet: (state, { species, pet }) => {
