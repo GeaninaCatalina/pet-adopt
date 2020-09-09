@@ -73,14 +73,14 @@ export default {
           name, 
           age
         }
-      }
-      this.addPet(payload)
+      };
+      this.addPet(payload);
 
       this.formData = {
         name: '',
         age: 0,
         species: null
-      }
+      };
     },
   },
 };

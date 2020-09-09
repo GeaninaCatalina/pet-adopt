@@ -5,13 +5,13 @@ export default {
     }, 
     getAllCats: (state)=> {
         let allCats = state.pets.filter((pet) => {
-           return pet.species === 'cat'
+           return pet.species === 'cat';
         })
         return allCats
     },
     getAllDogs: (state ) => {
         let allDogs =  state.pets.filter((pet) => {
-            return pet.species === 'dog'
+            return pet.species === 'dog';
         })
         return allDogs
     },
